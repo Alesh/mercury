@@ -1,0 +1,9 @@
+{
+	"name": "Mercury",
+	"description": "Dlang async I/O experimental project.",
+	"copyright": "Copyright © 2014, Alexey Poryadin",
+	"authors": ["Alexey Poryadin"],
+	"dependencies": {
+		"libev": "~master",
+	}
+}
