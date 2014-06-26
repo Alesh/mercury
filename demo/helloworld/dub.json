@@ -1,0 +1,9 @@
+{
+	"name": "helloworld",
+	"description": "A sample helloworld.",
+	"copyright": "Copyright © 2014, Alesh",
+	"authors": ["Alesh"],
+	"dependencies": {
+		"mercury": { "version": "~master", "path": "../../" },
+	}
+}

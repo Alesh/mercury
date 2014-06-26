@@ -1,0 +1,9 @@
+{
+	"name": "echoserver",
+	"description": "Sample echo server.",
+	"copyright": "Copyright © 2014, Alesh",
+	"authors": ["Alesh"],
+	"dependencies": {
+		"mercury": { "version": "~master", "path": "../../" },
+	}
+}

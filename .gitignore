@@ -1,3 +1,5 @@
 .dub/*
+echoserver
+helloworld
 libmercury.a
 __test__*
